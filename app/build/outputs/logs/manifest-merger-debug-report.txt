@@ -1,0 +1,334 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml:2:1-64:12
+INJECTED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml:2:1-64:12
+INJECTED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml:2:1-64:12
+INJECTED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml:2:1-64:12
+MERGED from [:kelasi.api] C:\Users\phil_\_pers\android_projects\kelasi\kelasi.api\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-19:12
+MERGED from [com.android.support:design:27.1.0] C:\Users\phil_\.gradle\caches\transforms-2\files-2.1\97ec90116600083667d96ab643b318f1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\phil_\.gradle\caches\transforms-2\files-2.1\6b1e6fb3f7d0e714020d6e7eaee22448\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\phil_\.gradle\caches\transforms-2\files-2.1\a6dec04d46d48af8a443e451e1ac9137\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.0] C:\Users\phil_\.gradle\caches\transforms-2\files-2.1\055bd59529f3b56a93c37c28410c9799\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\phil_\.gradle\caches\transforms-2\files-2.1\b0a086b6f57dba686c94faa74c2ede29\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.0] C:\Users\phil_\.gradle\caches\transforms-2\files-2.1\4443521a9f42513a41347324dda7f220\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\phil_\.gradle\caches\transforms-2\files-2.1\039be8cacec3a90212e77c0d3a937846\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\phil_\.gradle\caches\transforms-2\files-2.1\90a22d3efd1bf09120ffc8bf5bed8d33\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\phil_\.gradle\caches\transforms-2\files-2.1\c18e5f770f0c30e7c2b48986f5050f7c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\phil_\.gradle\caches\transforms-2\files-2.1\f86524da9f5682f4d2de0b2e1f61fee2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\phil_\.gradle\caches\transforms-2\files-2.1\f52bdfea0d3cfba5f012bb7a98ebd2af\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\phil_\.gradle\caches\transforms-2\files-2.1\8a96807e461658b816fa1654b5e2f243\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\phil_\.gradle\caches\transforms-2\files-2.1\3fe851b7e2bc9830efab695b3bb5fff4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\phil_\.gradle\caches\transforms-2\files-2.1\aba2821c83aeb3440f765d079d4325df\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\phil_\.gradle\caches\transforms-2\files-2.1\1be43c93ab7a86adfa5c571f7112a157\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\phil_\.gradle\caches\transforms-2\files-2.1\56dbf878906f6a696c1514cfe17b06cd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\phil_\.gradle\caches\transforms-2\files-2.1\6a723eaabb2774e69684012c64ddd61f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\phil_\.gradle\caches\transforms-2\files-2.1\567fc7219494d63dc9179919b3591a13\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\phil_\.gradle\caches\transforms-2\files-2.1\53805d0fd876f9f5290d3a46b561c1aa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\phil_\.gradle\caches\transforms-2\files-2.1\0a8cd274badc23749a7d6ac8a810dc35\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\phil_\.gradle\caches\transforms-2\files-2.1\e39782ffa2a2e8ababd67504f2aa2dbd\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\phil_\.gradle\caches\transforms-2\files-2.1\67e85d71faad21affe4561053e153d4c\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\phil_\.gradle\caches\transforms-2\files-2.1\55b1cfedee2d725d42ad73379ee6dace\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\phil_\.gradle\caches\transforms-2\files-2.1\d8656d78cec010008ee2076ad0d4ea8d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\phil_\.gradle\caches\transforms-2\files-2.1\8408a4331a87879e267b4b354238fadc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\phil_\.gradle\caches\transforms-2\files-2.1\5f6a3415906e8401847c041ac8691896\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\phil_\.gradle\caches\transforms-2\files-2.1\eb1ccc72ca8cbca950d2d0c9a90d043f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\phil_\.gradle\caches\transforms-2\files-2.1\84fce35112559601a1b9cf5e35b1345d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\phil_\.gradle\caches\transforms-2\files-2.1\4bec6a845d80564cdd61a7f73f488fe5\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\phil_\.gradle\caches\transforms-2\files-2.1\7265afd0e80669cf732a3b44e40692b6\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\phil_\.gradle\caches\transforms-2\files-2.1\82256815ef736bda9434f4dd81d31830\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\phil_\.gradle\caches\transforms-2\files-2.1\6b7090797e07d4cf7341f91608979df6\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml:2:1-64:12
+INJECTED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml:2:1-64:12
+INJECTED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml:2:1-64:12
+	package
+		ADDED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml:2:122-165
+		INJECTED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml:2:94-121
+		INJECTED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml:2:70-93
+		INJECTED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml
+	platformBuildVersionName
+		ADDED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml:2:196-228
+	platformBuildVersionCode
+		ADDED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml:2:166-195
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml:4:5-71
+	android:name
+		ADDED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml:4:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml:5:5-71
+	android:name
+		ADDED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml:5:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml:6:5-72
+	android:name
+		ADDED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml:6:22-69
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml:8:22-76
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml:9:5-67
+MERGED from [:kelasi.api] C:\Users\phil_\_pers\android_projects\kelasi\kelasi.api\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-67
+MERGED from [:kelasi.api] C:\Users\phil_\_pers\android_projects\kelasi\kelasi.api\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml:9:22-64
+uses-permission#com.sec.android.provider.badge.permission.READ
+ADDED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml:10:5-86
+	android:name
+		ADDED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml:10:22-83
+uses-permission#com.sec.android.provider.badge.permission.WRITE
+ADDED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml:11:5-87
+	android:name
+		ADDED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml:11:22-84
+uses-permission#com.htc.launcher.permission.READ_SETTINGS
+ADDED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml:12:22-78
+uses-permission#com.htc.launcher.permission.UPDATE_SHORTCUT
+ADDED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml:13:5-83
+	android:name
+		ADDED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml:13:22-80
+uses-permission#com.sonyericsson.home.permission.BROADCAST_BADGE
+ADDED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml:14:5-88
+	android:name
+		ADDED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml:14:22-85
+uses-permission#com.sonymobile.home.permission.PROVIDER_INSERT_BADGE
+ADDED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml:15:5-92
+	android:name
+		ADDED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml:15:22-89
+uses-permission#com.anddoes.launcher.permission.UPDATE_COUNT
+ADDED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml:16:5-84
+	android:name
+		ADDED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml:16:22-81
+uses-permission#com.majeur.launcher.permission.UPDATE_BADGE
+ADDED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml:17:5-83
+	android:name
+		ADDED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml:17:22-80
+uses-permission#com.huawei.android.launcher.permission.CHANGE_BADGE
+ADDED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml:18:5-91
+	android:name
+		ADDED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml:18:22-88
+uses-permission#com.huawei.android.launcher.permission.READ_SETTINGS
+ADDED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml:19:5-92
+	android:name
+		ADDED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml:19:22-89
+uses-permission#com.huawei.android.launcher.permission.WRITE_SETTINGS
+ADDED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml:20:5-93
+	android:name
+		ADDED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml:20:22-90
+uses-permission#android.permission.READ_APP_BADGE
+ADDED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml:21:5-73
+	android:name
+		ADDED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml:21:22-70
+application
+ADDED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml:22:5-63:19
+MERGED from [:kelasi.api] C:\Users\phil_\_pers\android_projects\kelasi\kelasi.api\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-17:19
+MERGED from [:kelasi.api] C:\Users\phil_\_pers\android_projects\kelasi\kelasi.api\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-17:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\phil_\.gradle\caches\transforms-2\files-2.1\e39782ffa2a2e8ababd67504f2aa2dbd\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\phil_\.gradle\caches\transforms-2\files-2.1\e39782ffa2a2e8ababd67504f2aa2dbd\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\phil_\.gradle\caches\transforms-2\files-2.1\67e85d71faad21affe4561053e153d4c\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\phil_\.gradle\caches\transforms-2\files-2.1\67e85d71faad21affe4561053e153d4c\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\phil_\.gradle\caches\transforms-2\files-2.1\e39782ffa2a2e8ababd67504f2aa2dbd\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml:22:226-252
+	android:label
+		ADDED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml:22:57-89
+	android:icon
+		ADDED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml:22:90-124
+	android:allowBackup
+		ADDED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml:22:199-225
+	android:theme
+		ADDED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml:22:18-56
+	android:name
+		ADDED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml:22:125-198
+service#pro.novatech.solutions.app.cicole.fragment.notifications.service.NotificationJob
+ADDED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml:23:9-173
+	android:permission
+		ADDED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml:23:114-170
+	android:name
+		ADDED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml:23:18-113
+activity#pro.novatech.solutions.app.cicole.WelcomeActivity
+ADDED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml:24:9-36:20
+	android:name
+		ADDED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml:24:19-83
+intent-filter#action:name:android.intent.action.MAIN+action:name:android.intent.action.SEARCH+action:name:android.intent.action.VIEW+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml:25:13-35:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml:26:25-66
+action#android.intent.action.SEARCH
+ADDED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml:28:21-75
+	android:name
+		ADDED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml:28:29-72
+action#android.intent.action.VIEW
+ADDED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml:31:21-73
+	android:name
+		ADDED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml:31:29-70
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml:33:17-77
+	android:name
+		ADDED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml:33:27-74
+activity#pro.novatech.solutions.app.cicole.LoginActivity
+ADDED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml:37:9-129
+	android:label
+		ADDED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml:37:19-63
+	android:name
+		ADDED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml:37:64-126
+activity#pro.novatech.solutions.app.cicole.MainActivity
+ADDED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml:38:9-127
+	android:label
+		ADDED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml:38:19-62
+	android:name
+		ADDED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml:38:63-124
+activity#pro.novatech.solutions.app.cicole.TextMessageActivity
+ADDED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml:39:9-41:20
+	android:parentActivityName
+		ADDED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml:39:141-216
+	android:label
+		ADDED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml:39:19-71
+	android:name
+		ADDED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml:39:72-140
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml:40:13-136
+	android:value
+		ADDED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml:40:71-133
+	android:name
+		ADDED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml:40:24-70
+activity#pro.novatech.solutions.app.cicole.SendMessageActivity
+ADDED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml:42:9-44:20
+	android:parentActivityName
+		ADDED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml:42:140-215
+	android:label
+		ADDED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml:42:19-70
+	android:name
+		ADDED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml:42:71-139
+activity#pro.novatech.solutions.app.cicole.StudentActivity
+ADDED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml:45:9-48:20
+	android:parentActivityName
+		ADDED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml:46:13-88
+	android:label
+		ADDED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml:45:19-65
+	android:name
+		ADDED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml:45:66-130
+activity#pro.novatech.solutions.app.cicole.SingleNewsActivity
+ADDED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml:49:9-51:20
+	android:parentActivityName
+		ADDED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml:49:87-162
+	android:name
+		ADDED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml:49:19-86
+activity#pro.novatech.solutions.app.cicole.StudentAttendanceActivity
+ADDED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml:52:9-54:20
+	android:parentActivityName
+		ADDED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml:52:94-169
+	android:name
+		ADDED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml:52:19-93
+activity#pro.novatech.solutions.app.cicole.ExamActivity
+ADDED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml:55:9-57:20
+	android:parentActivityName
+		ADDED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml:55:81-156
+	android:name
+		ADDED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml:55:19-80
+activity#pro.novatech.solutions.app.cicole.AddExamActivity
+ADDED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml:58:9-86
+	android:name
+		ADDED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml:58:19-83
+activity#pro.novatech.solutions.app.cicole.TeacherMarksActivity
+ADDED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml:59:9-61:20
+	android:parentActivityName
+		ADDED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml:59:89-164
+	android:name
+		ADDED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml:59:19-88
+uses-sdk
+INJECTED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml
+MERGED from [:kelasi.api] C:\Users\phil_\_pers\android_projects\kelasi\kelasi.api\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:kelasi.api] C:\Users\phil_\_pers\android_projects\kelasi\kelasi.api\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:27.1.0] C:\Users\phil_\.gradle\caches\transforms-2\files-2.1\97ec90116600083667d96ab643b318f1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.0] C:\Users\phil_\.gradle\caches\transforms-2\files-2.1\97ec90116600083667d96ab643b318f1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\phil_\.gradle\caches\transforms-2\files-2.1\6b1e6fb3f7d0e714020d6e7eaee22448\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\phil_\.gradle\caches\transforms-2\files-2.1\6b1e6fb3f7d0e714020d6e7eaee22448\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\phil_\.gradle\caches\transforms-2\files-2.1\a6dec04d46d48af8a443e451e1ac9137\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\phil_\.gradle\caches\transforms-2\files-2.1\a6dec04d46d48af8a443e451e1ac9137\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.0] C:\Users\phil_\.gradle\caches\transforms-2\files-2.1\055bd59529f3b56a93c37c28410c9799\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.0] C:\Users\phil_\.gradle\caches\transforms-2\files-2.1\055bd59529f3b56a93c37c28410c9799\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\phil_\.gradle\caches\transforms-2\files-2.1\b0a086b6f57dba686c94faa74c2ede29\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\phil_\.gradle\caches\transforms-2\files-2.1\b0a086b6f57dba686c94faa74c2ede29\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.0] C:\Users\phil_\.gradle\caches\transforms-2\files-2.1\4443521a9f42513a41347324dda7f220\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.0] C:\Users\phil_\.gradle\caches\transforms-2\files-2.1\4443521a9f42513a41347324dda7f220\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\phil_\.gradle\caches\transforms-2\files-2.1\039be8cacec3a90212e77c0d3a937846\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\phil_\.gradle\caches\transforms-2\files-2.1\039be8cacec3a90212e77c0d3a937846\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\phil_\.gradle\caches\transforms-2\files-2.1\90a22d3efd1bf09120ffc8bf5bed8d33\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\phil_\.gradle\caches\transforms-2\files-2.1\90a22d3efd1bf09120ffc8bf5bed8d33\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\phil_\.gradle\caches\transforms-2\files-2.1\c18e5f770f0c30e7c2b48986f5050f7c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\phil_\.gradle\caches\transforms-2\files-2.1\c18e5f770f0c30e7c2b48986f5050f7c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\phil_\.gradle\caches\transforms-2\files-2.1\f86524da9f5682f4d2de0b2e1f61fee2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\phil_\.gradle\caches\transforms-2\files-2.1\f86524da9f5682f4d2de0b2e1f61fee2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\phil_\.gradle\caches\transforms-2\files-2.1\f52bdfea0d3cfba5f012bb7a98ebd2af\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\phil_\.gradle\caches\transforms-2\files-2.1\f52bdfea0d3cfba5f012bb7a98ebd2af\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\phil_\.gradle\caches\transforms-2\files-2.1\8a96807e461658b816fa1654b5e2f243\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\phil_\.gradle\caches\transforms-2\files-2.1\8a96807e461658b816fa1654b5e2f243\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\phil_\.gradle\caches\transforms-2\files-2.1\3fe851b7e2bc9830efab695b3bb5fff4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\phil_\.gradle\caches\transforms-2\files-2.1\3fe851b7e2bc9830efab695b3bb5fff4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\phil_\.gradle\caches\transforms-2\files-2.1\aba2821c83aeb3440f765d079d4325df\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\phil_\.gradle\caches\transforms-2\files-2.1\aba2821c83aeb3440f765d079d4325df\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\phil_\.gradle\caches\transforms-2\files-2.1\1be43c93ab7a86adfa5c571f7112a157\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\phil_\.gradle\caches\transforms-2\files-2.1\1be43c93ab7a86adfa5c571f7112a157\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\phil_\.gradle\caches\transforms-2\files-2.1\56dbf878906f6a696c1514cfe17b06cd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\phil_\.gradle\caches\transforms-2\files-2.1\56dbf878906f6a696c1514cfe17b06cd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\phil_\.gradle\caches\transforms-2\files-2.1\6a723eaabb2774e69684012c64ddd61f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\phil_\.gradle\caches\transforms-2\files-2.1\6a723eaabb2774e69684012c64ddd61f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\phil_\.gradle\caches\transforms-2\files-2.1\567fc7219494d63dc9179919b3591a13\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\phil_\.gradle\caches\transforms-2\files-2.1\567fc7219494d63dc9179919b3591a13\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\phil_\.gradle\caches\transforms-2\files-2.1\53805d0fd876f9f5290d3a46b561c1aa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\phil_\.gradle\caches\transforms-2\files-2.1\53805d0fd876f9f5290d3a46b561c1aa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\phil_\.gradle\caches\transforms-2\files-2.1\0a8cd274badc23749a7d6ac8a810dc35\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\phil_\.gradle\caches\transforms-2\files-2.1\0a8cd274badc23749a7d6ac8a810dc35\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\phil_\.gradle\caches\transforms-2\files-2.1\e39782ffa2a2e8ababd67504f2aa2dbd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\phil_\.gradle\caches\transforms-2\files-2.1\e39782ffa2a2e8ababd67504f2aa2dbd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\phil_\.gradle\caches\transforms-2\files-2.1\67e85d71faad21affe4561053e153d4c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\phil_\.gradle\caches\transforms-2\files-2.1\67e85d71faad21affe4561053e153d4c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\phil_\.gradle\caches\transforms-2\files-2.1\55b1cfedee2d725d42ad73379ee6dace\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\phil_\.gradle\caches\transforms-2\files-2.1\55b1cfedee2d725d42ad73379ee6dace\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\phil_\.gradle\caches\transforms-2\files-2.1\d8656d78cec010008ee2076ad0d4ea8d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\phil_\.gradle\caches\transforms-2\files-2.1\d8656d78cec010008ee2076ad0d4ea8d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\phil_\.gradle\caches\transforms-2\files-2.1\8408a4331a87879e267b4b354238fadc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\phil_\.gradle\caches\transforms-2\files-2.1\8408a4331a87879e267b4b354238fadc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\phil_\.gradle\caches\transforms-2\files-2.1\5f6a3415906e8401847c041ac8691896\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\phil_\.gradle\caches\transforms-2\files-2.1\5f6a3415906e8401847c041ac8691896\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\phil_\.gradle\caches\transforms-2\files-2.1\eb1ccc72ca8cbca950d2d0c9a90d043f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\phil_\.gradle\caches\transforms-2\files-2.1\eb1ccc72ca8cbca950d2d0c9a90d043f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\phil_\.gradle\caches\transforms-2\files-2.1\84fce35112559601a1b9cf5e35b1345d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\phil_\.gradle\caches\transforms-2\files-2.1\84fce35112559601a1b9cf5e35b1345d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\phil_\.gradle\caches\transforms-2\files-2.1\4bec6a845d80564cdd61a7f73f488fe5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\phil_\.gradle\caches\transforms-2\files-2.1\4bec6a845d80564cdd61a7f73f488fe5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\phil_\.gradle\caches\transforms-2\files-2.1\7265afd0e80669cf732a3b44e40692b6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\phil_\.gradle\caches\transforms-2\files-2.1\7265afd0e80669cf732a3b44e40692b6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\phil_\.gradle\caches\transforms-2\files-2.1\82256815ef736bda9434f4dd81d31830\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\phil_\.gradle\caches\transforms-2\files-2.1\82256815ef736bda9434f4dd81d31830\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\phil_\.gradle\caches\transforms-2\files-2.1\6b7090797e07d4cf7341f91608979df6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\phil_\.gradle\caches\transforms-2\files-2.1\6b7090797e07d4cf7341f91608979df6\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\phil_\_pers\android_projects\kelasi\app\src\main\AndroidManifest.xml

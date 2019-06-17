@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">kelasi.api</string>
+    <string name="login_attempt">Login attempt Please wait...</string>
+    <string name="auth_attempt">Authorizing  Please wait...</string>
+    <string name="please_wait">Please wait...</string>
+
+
+</resources>

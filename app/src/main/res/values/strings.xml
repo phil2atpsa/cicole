@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="action_search">Search</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="app_name">Cicole</string>
+    <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="btn_sign_in">Sign In</string>
+    <string name="btn_sign_up">Sign Up</string>
+    <string name="calendar">Calendar</string>
+    <string name="drawer_close">Close</string>
+    <string name="drawer_open">Open</string>
+    <string name="err_msg">Message can not by empty</string>
+    <string name="err_subj">Subject can not by empty</string>
+    <string name="subject">Subject</string>
+    <string name="grid_item_attendance">Attendances</string>
+    <string name="grid_item_forum">Forums</string>
+    <string name="grid_item_grade">Grades</string>
+    <string name="grid_item_exam">Exams</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="err_msg_access">App access  reserved to Guardian/Teacher</string>
+    <string name="err_msg_email">Username is required</string>
+    <string name="err_msg_name">Enter your full name</string>
+    <string name="err_msg_password">Enter the password</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_invalid_email">Username should no be empty</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="hint_email">Username</string>
+    <string name="hint_name">Full Name</string>
+    <string name="hint_password">Password</string>
+    <string name="nav_item_dashboard">Dashboard</string>
+    <string name="nav_item_friends">Friends</string>
+    <string name="nav_item_home">My CICOLE app</string>
+    <string name="nav_item_notifications">Mail / Notification</string>
+    <string name="nav_item_student">View student profile</string>
+    <string name="next">NEXT</string>
+    <string name="play_again">Play Again</string>
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="previous">Go to previous</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="skip">SKIP</string>
+    <string name="slide_1_desc">Welcome to Cicole!</string>
+    <string name="slide_1_title"></string>
+    <string name="slide_2_desc">Monitor your child at school!</string>
+    <string name="slide_2_title">Our simple app to</string>
+    <string name="slide_3_desc">With one click!</string>
+    <string name="slide_3_title">See it all</string>
+    <string name="slide_4_desc">Here we can put instructions and contact info!</string>
+    <string name="slide_4_title">Instructions</string>
+    <string name="start">GOT IT</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="title_activity_absent">Absent</string>
+    <string name="title_activity_dashboard">Dashboard</string>
+    <string name="title_activity_events">Events</string>
+    <string name="title_activity_fees">Fees</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="title_activity_marks">Marks</string>
+    <string name="title_activity_messages">Messages</string>
+    <string name="title_activity_profile">Profile</string>
+    <string name="title_activity_report">Report</string>
+    <string name="title_activity_student_profile">Student Profile</string>
+    <string name="title_activity_timetable">Timetable</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_friends">Friends</string>
+    <string name="title_home">Home</string>
+    <string name="title_messages">Messages</string>
+    <string name="title_notifications">Mail / Notification</string>
+    <string name="title_student">View student profile</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="full_amount">Full Amount</string>
+    <string name="paid_so_far">Instalment</string>
+    <string name="balance">Balance</string>
+
+    <string name="mark_please">Please Insert Mark</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_profile">Profile</string>
+    <string name="menu_notification">Messages</string>
+    <string name="menu_students">Student(s)</string>
+    <string name="menu_events">School Events</string>
+    <string name="menu_students_attendance">Students Attendance</string>
+
+    <string name="menu_logout">Logout</string>
+
+    <string name="grid_item_absent">Absent Days</string>
+    <string name="grid_item_awards">Awards</string>
+    <string name="grid_item_events">Events</string>
+    <string name="grid_item_fees">Fees</string>
+    <string name="grid_item_news">News</string>
+    <string name="grid_item_marks">Marks</string>
+    <string name="grid_item_report">Reports</string>
+    <string name="grid_item_student">Students</string>
+    <string name="grid_item_timetable">TimeTable</string>
+    <string name="btn_submit">Save</string>
+
+    <string name="profile_name">Name:</string>
+    <string name="profile_surname">Surname:</string>
+    <string name="profile_email">Email:</string>
+    <string name="profile_role">Role:</string>
+    <string name="profile_created_at">Date Created:</string>
+
+    <string name="edit_btn">Edit Details</string>
+    <string name="all_messages">All</string>
+    <string name="new_messages">New</string>
+    <string name="sent_messages">Outbox</string>
+    <string name="no_new_messages">No new messages found</string>
+    <string name="no_messages">No messages found</string>
+    <string name="confirmation">Please confirm</string>
+    <string name="message_deletion_msg">Are you sure you want to delete the selected message(s)</string>
+    <string name="title_activity_text_message2">TextMessage2</string>
+    <string name="message_deletion_confirmation">Message deleted</string>
+    <string name="title_activity_send_message">New Message</string>
+
+    <string name="save_attendance_narrative">Are you sure to continue?</string>
+    <string name="menu_exams">Exams</string>
+
+    <string name="inbox">Inbox</string>
+    <string name="outbox">Outbox</string>
+
+    <string name="msg_recieved">Inbox</string>
+    <string name="search_hint">Search</string>
+    <string name="no_students">Your records show that no students has been register  under you account.</string>
+    <string name="upcoming">Ucomping</string>
+    <string name="monthly_view">Monthly View</string>
+    <string name="internet_required">Your Device seems not to be connected. Please check your internet connection and try again</string>
+    <string name="title_activity_student">StudentActivity</string>
+    <string name="absent_date">Date</string>
+    <string name="absent_reason">Reason</string>
+    <string name="amount">Amount: </string>
+
+    <string name="room">Room</string>
+    <string name="weekday">Day</string>
+
+    <string name="start_time">Start</string>
+    <string name="end_time">End </string>
+    <string name="classtiming">Timing</string>
+    <string name="no_upcoming_events">No Upcoming Events</string>
+    <string name="student_my">Me</string>
+    <string name="student_profile">Student Profiles</string>
+
+
+</resources>

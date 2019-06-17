@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">kelasi.api</string>
+    <string name="login_attempt">Attendez un moment pendant la connexion...</string>
+    <string name="auth_attempt">Attendez un moment pendant l\'authorization ...</string>
+    <string name="please_wait">Un moment S\'il vous plait</string>
+</resources>

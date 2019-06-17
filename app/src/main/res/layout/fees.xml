@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <TableRow android:background="@color/shadow_mid_color"
+        android:padding="@dimen/abc_switch_padding">
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight=".5"
+            android:text="@string/full_amount"/>
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_weight=".5"
+            android:layout_height="wrap_content"
+            android:id="@+id/full_amount"/>
+
+
+    </TableRow>
+    <TableRow android:background="@color/shadow_end_color"
+        android:padding="@dimen/abc_switch_padding">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight=".5"
+            android:text="@string/paid_so_far"
+            android:layout_gravity="right"/>
+
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight=".5"
+            android:id="@+id/paid_so_far"
+            android:layout_gravity="right"/>
+
+    </TableRow>
+    <TableRow android:background="@color/shadow_mid_color"
+        android:padding="@dimen/abc_switch_padding">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="@string/balance"
+            android:layout_weight=".5"/>
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/balance"
+            android:layout_weight=".5"
+            android:layout_gravity="right"/>
+    </TableRow>
+
+</TableLayout>
+
+
+

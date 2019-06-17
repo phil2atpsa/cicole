@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="pro.novatech.solutions.app.cicole"
+    platformBuildVersionCode="26"
+    platformBuildVersionName="8.0.0"
+    android:targetSandboxVersion="2"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="21"
+        android:targetSdkVersion="27" />
+
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.READ_PROFILE" />
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="com.sec.android.provider.badge.permission.READ" />
+    <uses-permission android:name="com.sec.android.provider.badge.permission.WRITE" />
+    <uses-permission android:name="com.htc.launcher.permission.READ_SETTINGS" />
+    <uses-permission android:name="com.htc.launcher.permission.UPDATE_SHORTCUT" />
+    <uses-permission android:name="com.sonyericsson.home.permission.BROADCAST_BADGE" />
+    <uses-permission android:name="com.sonymobile.home.permission.PROVIDER_INSERT_BADGE" />
+    <uses-permission android:name="com.anddoes.launcher.permission.UPDATE_COUNT" />
+    <uses-permission android:name="com.majeur.launcher.permission.UPDATE_BADGE" />
+    <uses-permission android:name="com.huawei.android.launcher.permission.CHANGE_BADGE" />
+    <uses-permission android:name="com.huawei.android.launcher.permission.READ_SETTINGS" />
+    <uses-permission android:name="com.huawei.android.launcher.permission.WRITE_SETTINGS" />
+    <uses-permission android:name="android.permission.READ_APP_BADGE" />
+
+    <application
+        android:name="pro.novatech.solutions.app.cicole.helper.ApplicationGlobal"
+        android:allowBackup="true"
+        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/MyMaterialTheme" >
+        <service
+            android:name="pro.novatech.solutions.app.cicole.fragment.notifications.service.NotificationJob"
+            android:permission="android.permission.BIND_JOB_SERVICE" />
+
+        <activity android:name="pro.novatech.solutions.app.cicole.WelcomeActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <!-- intent-filter -->
+                <action android:name="android.intent.action.SEARCH" />
+                <!-- /intent-filter -->
+                <!-- intent-filter -->
+                <action android:name="android.intent.action.VIEW" />
+                <!-- /intent-filter -->
+                <category android:name="android.intent.category.LAUNCHER" />
+                <!-- meta-data android:name="android.searchable" android:resource="@xml/searchable" / -->
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="pro.novatech.solutions.app.cicole.LoginActivity"
+            android:label="@string/title_activity_login" />
+        <activity
+            android:name="pro.novatech.solutions.app.cicole.MainActivity"
+            android:label="@string/title_activity_main" />
+        <activity
+            android:name="pro.novatech.solutions.app.cicole.TextMessageActivity"
+            android:label="@string/title_activity_text_message2"
+            android:parentActivityName="pro.novatech.solutions.app.cicole.MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="pro.novatech.solutions.app.cicole.MainActivity" />
+        </activity>
+        <activity
+            android:name="pro.novatech.solutions.app.cicole.SendMessageActivity"
+            android:label="@string/title_activity_send_message"
+            android:parentActivityName="pro.novatech.solutions.app.cicole.MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="pro.novatech.solutions.app.cicole.MainActivity" />
+        </activity>
+        <activity
+            android:name="pro.novatech.solutions.app.cicole.StudentActivity"
+            android:label="@string/title_activity_student"
+            android:parentActivityName="pro.novatech.solutions.app.cicole.MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="pro.novatech.solutions.app.cicole.MainActivity" />
+        </activity>
+        <activity
+            android:name="pro.novatech.solutions.app.cicole.SingleNewsActivity"
+            android:parentActivityName="pro.novatech.solutions.app.cicole.MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="pro.novatech.solutions.app.cicole.MainActivity" />
+        </activity>
+        <activity
+            android:name="pro.novatech.solutions.app.cicole.StudentAttendanceActivity"
+            android:parentActivityName="pro.novatech.solutions.app.cicole.MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="pro.novatech.solutions.app.cicole.MainActivity" />
+        </activity>
+        <activity
+            android:name="pro.novatech.solutions.app.cicole.ExamActivity"
+            android:parentActivityName="pro.novatech.solutions.app.cicole.MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="pro.novatech.solutions.app.cicole.MainActivity" />
+        </activity>
+        <activity android:name="pro.novatech.solutions.app.cicole.AddExamActivity" />
+        <activity
+            android:name="pro.novatech.solutions.app.cicole.TeacherMarksActivity"
+            android:parentActivityName="pro.novatech.solutions.app.cicole.MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="pro.novatech.solutions.app.cicole.MainActivity" />
+        </activity>
+    </application>
+
+</manifest>

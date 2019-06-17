@@ -1,0 +1,4 @@
+#Mon Mar 18 14:21:47 CAT 2019
+base.0=C\:\\Users\\phil_\\_pers\\android_projects\\kelasi\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\3
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <group android:checkableBehavior="single">
+        <item android:icon="@drawable/ic_home_black_24dp" android:id="@+id/nav_home" android:title="@string/menu_home" />
+        <item android:icon="@drawable/ic_account_circle_black_24dp" android:id="@+id/nav_profile" android:title="@string/menu_profile" />
+        <item android:icon="@drawable/ic_mail_black_24dp" android:id="@+id/nav_notification" android:title="@string/menu_notification" app:showAsAction="always" app:actionLayout="@layout/notification_badge" />
+        <item android:icon="@drawable/ic_supervisor_account_black_24dp" android:id="@+id/nav_students" android:title="@string/menu_students" />
+        <item android:icon="@drawable/ic_event_black_24dp" android:id="@+id/nav_events" android:title="@string/menu_events" />
+        <item android:icon="@drawable/ic_news_black_24dp" android:id="@+id/nav_news" android:title="@string/grid_item_news" />
+        <item android:icon="@drawable/ic_cancel_black_24dp" android:id="@+id/nav_logout" android:title="@string/menu_logout" />
+    </group>
+</menu>

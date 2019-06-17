@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="array_dot_active">
+        <item>@color/dot_light_screen1</item>
+        <item>@color/dot_light_screen2</item>
+        <item>@color/dot_light_screen3</item>
+        <item>@color/dot_light_screen4</item>
+    </array>
+    <array name="array_dot_inactive">
+        <item>@color/dot_dark_screen1</item>
+        <item>@color/dot_dark_screen2</item>
+        <item>@color/dot_dark_screen3</item>
+        <item>@color/dot_dark_screen4</item>
+    </array>
+    <string-array name="nav_drawer_labels">
+        <item>@string/nav_item_home</item>
+        <item>@string/nav_item_dashboard</item>
+        <item>@string/nav_item_notifications</item>
+        <item>@string/nav_item_student</item>
+    </string-array>
+    <string-array name="grid_menu">
+        <item>@string/grid_item_absent</item>
+       <!-- <item>@string/grid_item_awards</item>-->
+        <item>@string/grid_item_events</item>
+        <item>@string/grid_item_fees</item>
+        <item>@string/grid_item_news</item>
+        <item>@string/grid_item_marks</item>
+        <!--<item>@string/grid_item_report</item>-->
+        <item>@string/grid_item_student</item>
+        <item>@string/grid_item_timetable</item>
+
+    </string-array>
+
+    <string-array name="grid_teacher_menu">
+        <item>@string/grid_item_attendance</item>
+        <!--<item>@string/grid_item_marks</item>
+        <item>@string/grid_item_exam</item>-->
+        <item>@string/grid_item_events</item>
+        <item>@string/grid_item_news</item>
+        <item>@string/title_activity_messages</item>
+
+    </string-array>
+
+    <string-array name="grid_student_menu">
+        <item>@string/grid_item_absent</item>
+        <!-- <item>@string/grid_item_awards</item>-->
+        <item>@string/grid_item_events</item>
+        <item>@string/grid_item_fees</item>
+        <item>@string/grid_item_news</item>
+        <item>@string/grid_item_marks</item>
+        <!--<item>@string/grid_item_report</item>-->
+        <item>@string/grid_item_timetable</item>
+
+    </string-array>
+
+
+
+
+
+</resources>

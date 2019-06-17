@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/grid_item_absent" android:orderInCategory="100" android:title="@string/grid_item_absent" app:showAsAction="never" />
+    <item android:id="@+id/grid_item_fees" android:orderInCategory="100" android:title="@string/grid_item_fees" app:showAsAction="never" />
+    <item android:id="@+id/grid_item_marks" android:orderInCategory="100" android:title="@string/grid_item_marks" app:showAsAction="never" />
+    <item android:id="@+id/grid_item_timetable" android:orderInCategory="100" android:title="@string/grid_item_timetable" app:showAsAction="never" />
+</menu>
